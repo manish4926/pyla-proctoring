@@ -1,0 +1,20 @@
+__pycache__/
+.idea/
+.env
+
+
+# Ignore Python cache files
+*.py[cod]
+*.pyc
+*.pyo
+*.pyd
+*/__pycache__/
+
+# Ignore virtual environment directories
+venv/
+env/
+
+# Ignore other common files
+*.DS_Store
+*.log
+*.sqlite3
